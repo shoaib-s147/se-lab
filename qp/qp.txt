@@ -2,6 +2,6 @@ explain functional and non functional requirements of online course reservation 
 
 create use case diagram for online course reservation system
 
-scaling of container via kubernet
+scaling of MS SQL container via kubernet
 
-web app via aws ec2
+web app via aws ec2 - NGNIX
