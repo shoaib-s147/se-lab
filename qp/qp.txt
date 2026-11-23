@@ -1,0 +1,7 @@
+explain functional and non functional requirements of online course reservation system
+
+create use case diagram for online course reservation system
+
+scaling of container via kubernet
+
+web app via aws ec2
